@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<version>0.8.2</version>
+	<TIPS>
+		You can specify no more than 35 mods
+		GitGud loads about 1 mod/second, so try to mix mods order in modlist to make the launcher load faster.
+		Check that the links looks like https://[resource]/[owner]/[repository_name]
+		An extra empty string or "/" at the end of link may break the program.
+		Do not change anything except modlist for stable work.
+		I cannot guarantee reliability when working with other mods, but in theory everything would work as it should.
+		RimworldHugsLib and ModManager problems
+
+		INSTALLED GIT MAKES DOWNLOAD MUCH FASTER!!! INSTALL AND TURN IT ON (from False to True in this file in gitcheck)
+		CHECK NAME OF GAME DOWN TO THIS FILE! OR WRONG GAME NAME WILL BREAK THE APP WHEN YOU PRESS START GAME!
+	</TIPS>
+	<modlist>
+		https://github.com/pardeike/HarmonyRimWorld
+		https://github.com/jecrell/JecsTools
+		https://github.com/RimWorld-CCL-Reborn/AlienRaces
+		https://gitlab.com/SovietSoda/rimnude
+		https://gitgud.io/Ed86/rjw
+		https://gitlab.com/SovietSoda/sizedapparel
+		https://gitgud.io/Ed86/rjw-ex
+		https://gitlab.com/SovietSoda/erotic-greek-sculptures
+		https://gitgud.io/Ed86/rjw-mc
+		https://gitlab.com/SovietSoda/OTY-Nude-Unofficial-Update
+		https://gitgud.io/John-the-Anabaptist/licentia-labs
+		https://gitlab.com/SovietSoda/cumflationgraphics
+		https://gitgud.io/Abraxas/rjw-race-support
+		https://github.com/moreoreganostodump/RJW-Sexperience
+		https://gitgud.io/c0ffeeeeeeee/rimworld-animations
+		https://gitgud.io/Tory/animaddons-voicepatch
+		https://gitgud.io/Tory/rjwanimaddons-xtraanims
+		https://gitlab.com/SovietSoda/statue-of-colonist-rn-patch
+		https://gitgud.io/Tory/rjwanimaddons-animalpatch
+		https://gitlab.com/SovietSoda/roboanims
+		https://gitgud.io/c0ffeeeeeeee/rjw-events
+		https://github.com/moreoreganostodump/RJW_Menstruation
+		https://gitgud.io/c0ffeeeeeeee/coffees-rjw-ideology-addons
+		https://gitgud.io/HiveBro/nephila-rjw
+	</modlist>
+	<git>https://github.com/SovietSoda/RJW_Launcher</git>
+	<telegram>https://t.me/RJW_Chat</telegram>
+	<loverslab>https://www.loverslab.com/forum/322-rimworld/</loverslab>
+	<discord>https://discord.com/invite/CXwHhv8</discord>
+
+	<gitcheck>True</gitcheck>
+
+	<launcher_actual_Manifest_link>
+		https://raw.githubusercontent.com/SovietSoda/RJW_Launcher/main/Launcher_Data/Manifest.xml
+	</launcher_actual_Manifest_link>
+
+	<name_of_game_exe>RimWorldWin64.exe</name_of_game_exe>
+
+	<description>
+	</description>
+</ModMetaData>
